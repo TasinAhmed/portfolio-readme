@@ -2,6 +2,9 @@
 
 A stunning macOS-inspired portfolio website built with Next.js, featuring an authentic desktop experience with draggable windows, native-style applications, and smooth animations.
 
+![light](./light.png)
+![dark](./dark.png)
+
 ## Inspiration
 
 Here are some websites that inspired me when creating this site:
